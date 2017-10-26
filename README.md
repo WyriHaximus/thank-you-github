@@ -150,7 +150,7 @@ Signed,
 - Alexander Harchenko ([@morontt](https://github.com/morontt)), Developer
 - Luke Elliott ([@revlucio](https://github.com/revlucio)), Developer
 - Bruno Rocha ([@rochacbruno](https://github.com/rochacbruno)), Software Artist at [CathoLabs](http://catholabs.com/) & [Quokka CMS](http://quokkaproject.org)
-- Cris Mihalache ([@f3rno](https://f3rno.com)), Software Engineer
+- Cris Mihalache ([@f3rno](http://f3rno.com)), Software Engineer
 - Jim Slattery ([@jim-slattery-rs](https://github.com/jim-slattery-rs)), Developer
 - Edwin Cruz ([@softr8](https://github.com/softr8)), VP of Engineering at [MagmaLabs](http://www.magmalabs.io/)
 - Todd Qualls ([@tqheel](https://github.com/tqheel)), Software Developer
@@ -1426,4 +1426,4 @@ Signed,
 - Liosfr ([@Liosfr](https://github.com/Liosfr)), Open Source Fanboy, Silicon Valley, California, United States of America, Western Hemisphere, Earth, Sol System, 0.5 Orion Arm (Inner Rim), Milky Way, Universe 616
 - Kashyap Raval ([@kashyap32](https://github.com/kashyap32)) ,Intern Python/ML developer , Gujarat, India
 - Mike Kokkolios ([@mikekok](https://github.com/mikekok)), Web Developer, Greece
-- Joshua Richardson ([@jrichocean](https://github.com/jrichocean) Software Developer, Utah
+- Cees-Jan Kiewiet ([@WyriHaximus](https://github.com/WyriHaximus)), Sorcerer, The Netherlands
